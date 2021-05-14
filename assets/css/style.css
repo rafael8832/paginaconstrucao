@@ -1,0 +1,16 @@
+body{
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+}
+
+img{
+    border-radius: 51%;
+    border: 10px solid #999;
+}
